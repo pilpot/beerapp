@@ -1,7 +1,7 @@
 {
-  "name": "My App",
-  "short_name": "My App",
-  "description": "My App description",
+  "name": "BeerApp",
+  "short_name": "BeerApp",
+  "description": "All beers in a app",
   "icons": [
     {
       "src": "images/manifest/icon-192x192.png",
